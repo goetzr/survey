@@ -1,0 +1,16 @@
+[package]
+name = "create_kml_file"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.86"
+clap = "4.5.16"
+color-name = "1.1.0"
+geo = "0.28.0"
+itertools = "0.13.0"
+kml = "0.8.5"
+quick-xml = "0.31"
+thiserror = "1.0.63"
+tracing = "0.1.40"
+tracing-subscriber = { version = "0.3.18", features = ["env-filter"] }

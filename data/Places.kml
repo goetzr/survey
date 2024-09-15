@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Places</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Fire Ring</name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APLA8iCdGSgvtWGhzXtv0b0l7Vp0bIyy_Rdfo0k7vnypZYcHIahpAz5RMLvSj-Ek9Ore0ijW1XPDjnft9q_2AB13roSUwjjlN3jKfpspoHNba33cZcg1m-dHGDDayQ8_Xukt3eWaaqtc03HjZZvs9XvgrQfWFjuzM2ZCl8DTeuKIvtcuUUucEKJnB693jfBesFkREi9yPtoWkG_O7M9fJhcIL4IwHSiQ6E5c6zyIDTpdJENCtYYRFoFEx0YyNVg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APLA8iCdGSgvtWGhzXtv0b0l7Vp0bIyy_Rdfo0k7vnypZYcHIahpAz5RMLvSj-Ek9Ore0ijW1XPDjnft9q_2AB13roSUwjjlN3jKfpspoHNba33cZcg1m-dHGDDayQ8_Xukt3eWaaqtc03HjZZvs9XvgrQfWFjuzM2ZCl8DTeuKIvtcuUUucEKJnB693jfBesFkREi9yPtoWkG_O7M9fJhcIL4IwHSiQ6E5c6zyIDTpdJENCtYYRFoFEx0YyNVg?authuser=0&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.1127694444,37.369025,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Corner 18 </name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APLA8iDg0kSRXRGQSw3_KpkSz7opfGijIZA7TJJWTd5jfYNXuJ3RxMcZSauKJA0mkV2gaDiJUigf7WDdJDHSSKRetb6h_dXbWmlQ1j09gmmBzt2nxsTUNX6uyAaCq7M_M7j3SSUrTkU8n4k37gjrFmHxSRrnFP3qLKarCqh_ggRmHJJ3Dhpv9zma65kqoUJSDH3bA1pZimOO04DqmlLdDxsbGESnSve32qpZwcrWnOYlndytggdWMZJ0EoekYPE?authuser=0&fife=s16383" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APLA8iDg0kSRXRGQSw3_KpkSz7opfGijIZA7TJJWTd5jfYNXuJ3RxMcZSauKJA0mkV2gaDiJUigf7WDdJDHSSKRetb6h_dXbWmlQ1j09gmmBzt2nxsTUNX6uyAaCq7M_M7j3SSUrTkU8n4k37gjrFmHxSRrnFP3qLKarCqh_ggRmHJJ3Dhpv9zma65kqoUJSDH3bA1pZimOO04DqmlLdDxsbGESnSve32qpZwcrWnOYlndytggdWMZJ0EoekYPE?authuser=0&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.1182777778,37.3669916667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Big Hill 2</name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APLA8iAdNdzhMK5VsxYGlUN3wFeT8P8qzu5b-eIke8V_4N9dyOwuQXJm55TB5QZ5Yf5YqVkzJSvr824QqD_-KllZ-6mpRanwUc1a6fFav9Ib67JV31Z2V6SPm8e_24yQhDtfgYeTeKYMb1VwZ88PSd5RgKc23W8zcJfyJz6g6mAq9kFgbBn0f90PLg9koMmQcElBrFO61BAGWwVdlg3KO0lwDVVZu3QRSCiQe2izTsSs6bZ_INEC-NEZVvPkXlA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APLA8iAdNdzhMK5VsxYGlUN3wFeT8P8qzu5b-eIke8V_4N9dyOwuQXJm55TB5QZ5Yf5YqVkzJSvr824QqD_-KllZ-6mpRanwUc1a6fFav9Ib67JV31Z2V6SPm8e_24yQhDtfgYeTeKYMb1VwZ88PSd5RgKc23W8zcJfyJz6g6mAq9kFgbBn0f90PLg9koMmQcElBrFO61BAGWwVdlg3KO0lwDVVZu3QRSCiQe2izTsSs6bZ_INEC-NEZVvPkXlA?authuser=0&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.1171583333,37.3658133333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Big Hill 1</name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APLA8iCkDOHKBZnCfqz5DUHdFII4DCBItn9u-gDvWUgkNrfuFi5bbhrHkGwXAKynuepgJAG-4PCNPUdwjnrkJpn79YdhCF0en5ff_BdFZf47B1h6XbOVqm-wiofmlGNSPWuFNmluOdT2fb_HKdbNTHhwt7jBozzjvT8r6tz-fuicFNY9D52lFzmm4uIkOsWtlpcBORqTcO2Qd3ftv4uXSvxe0DhH1smFZVGzYYuVSKfgT70ZWEVNj6OkASLSXwU?authuser=0&fife=s16383" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APLA8iCkDOHKBZnCfqz5DUHdFII4DCBItn9u-gDvWUgkNrfuFi5bbhrHkGwXAKynuepgJAG-4PCNPUdwjnrkJpn79YdhCF0en5ff_BdFZf47B1h6XbOVqm-wiofmlGNSPWuFNmluOdT2fb_HKdbNTHhwt7jBozzjvT8r6tz-fuicFNY9D52lFzmm4uIkOsWtlpcBORqTcO2Qd3ftv4uXSvxe0DhH1smFZVGzYYuVSKfgT70ZWEVNj6OkASLSXwU?authuser=0&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.1085805556,37.3689033333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Big Rock North</name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APLA8iDoidVg6J4LZcul1eTu3yQ9EcoyYINgeVIfgVFRRUbXbGkIXXNwnfA1fC9sFQZo9cx1ugjbjfvrhX-XnMWzP2DTcK6Xf8MrB1qZhNxriMF-UKDb6aeUAP0U-H8Wo6S5Rk8LN3jOlaG-vo-NTDfyTw9ihNHzB3OJkOkZZt1abSM1cj5YR-pTUBThkWIlndAuNGjh5pDkLqA3HZgj02wEcx5Zc7tBD-g9PDPH0VoEfPkfV6KL333005uPvh4?authuser=0&fife=s16383" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APLA8iDoidVg6J4LZcul1eTu3yQ9EcoyYINgeVIfgVFRRUbXbGkIXXNwnfA1fC9sFQZo9cx1ugjbjfvrhX-XnMWzP2DTcK6Xf8MrB1qZhNxriMF-UKDb6aeUAP0U-H8Wo6S5Rk8LN3jOlaG-vo-NTDfyTw9ihNHzB3OJkOkZZt1abSM1cj5YR-pTUBThkWIlndAuNGjh5pDkLqA3HZgj02wEcx5Zc7tBD-g9PDPH0VoEfPkfV6KL333005uPvh4?authuser=0&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.1098555556,37.3719033333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Big Rock Creek</name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3APLA8iAJ0zc9h9Pch90mHFTssjXoEVnXY02VuejvGID_0kbsLSoIDqWrpCLjaUhkQ-jEEmqzS-3ErXEXtkTCsPV9IQ0FScWOege2_x8o5bc_SPx2PxxNi5CTXHAHJxCjDEy6rGWaLDJ_9P3h1fJl2QuK8VSNpE_QOZkROIwlCx08myR34SST57Zu1Vc1xnygAdxHznq1lfFi477-j82_Uc2Y35JO-BUJxEZUAXFCdxlIz1yhvs95mw0Akijxpug?authuser=0&fife=s16383" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3APLA8iAJ0zc9h9Pch90mHFTssjXoEVnXY02VuejvGID_0kbsLSoIDqWrpCLjaUhkQ-jEEmqzS-3ErXEXtkTCsPV9IQ0FScWOege2_x8o5bc_SPx2PxxNi5CTXHAHJxCjDEy6rGWaLDJ_9P3h1fJl2QuK8VSNpE_QOZkROIwlCx08myR34SST57Zu1Vc1xnygAdxHznq1lfFi477-j82_Uc2Y35JO-BUJxEZUAXFCdxlIz1yhvs95mw0Akijxpug?authuser=0&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -84.1113055556,37.3722883333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
